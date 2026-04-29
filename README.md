@@ -1,4 +1,4 @@
-# E-Commerce Dashboard ✨
+# E-Commerce Dashboard 
 
 ## Setup Environment - Shell/Terminal
 ```
